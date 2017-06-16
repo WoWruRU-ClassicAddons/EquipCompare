@@ -14,6 +14,7 @@
 -- Non-english localizations are placed in seperate files.
 --
 
+
 -- Version ID
 EQUIPCOMPARE_VERSIONID = "2.9.8";
 

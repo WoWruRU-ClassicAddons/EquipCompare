@@ -9,6 +9,7 @@
 ## Author: Legorol
 ## Version: 2.9.8
 ## Notes: Compare items easily with ones you have equipped (2.9.8)
+## Notes-ruRU: Сравнивает предметы с одетыми на персонаже
 ## Notes-frFR: Permet de comparer facilement les items avec ceux que vous equipez (2.9.8)
 ## Notes-deDE: Ermöglicht es beliebige Gegenstände mit deiner momentanen Ausrüstung zu vergleichen (2.9.8)
 ## Notes-koKR: 아이템을 비교하기 쉽게 착용중인 아이템을 보여줍니다. (2.9.8)
@@ -18,10 +19,11 @@
 ## OptionalDeps: Khaos, Cosmos, Satellite, Sky, CharactersViewer, LootLink
 localization.lua
 localization.de.lua
-localization.fr.lua
+localization.ru.lua
 localization.kr.lua
 localization.cn.lua
 localization.tw.lua
+localization.fr.lua
 localization.post.lua
 EquipCompare.lua
 EquipCompare.xml

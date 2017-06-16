@@ -4,6 +4,10 @@
 -- Last Update : 06/16/2005
 
 if (GetLocale() == "frFR") then
+
+-- Version ID
+EQUIPCOMPARE_VERSIONID = "2.9.8";
+
 	-- "Bonus" inventory types
 	-- WARNING: these lines must match the text displayed by the client exactly.
 	-- Can't use arbitrary phrases. Edit and translate with care.
